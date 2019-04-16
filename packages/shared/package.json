@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "readium-cfi-js": "^1.0.0-alpha.1"
+  }
+}
